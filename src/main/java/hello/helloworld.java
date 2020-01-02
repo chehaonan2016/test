@@ -69,16 +69,13 @@ public class helloworld {
 //        }
 
 
-
-
-
-        sendMail send=new sendMail("之前","chehaonan@58.com",new Date());
-        send.emailInitialization();
-        send.emailContentPicture();
-        send.carbonCopy("asd","chn520039379@163.com");
-        send.emailContentFile();
-         SetWtableThreadPool.getInstance().addTask(send);
-         System.out.println("888888888888888888888888888888888888888888888888888888888888888888888");
+//        sendMail send=new sendMail("之前","chehaonan@58.com",new Date());
+//        send.emailInitialization();
+//        send.emailContentPicture();
+//        send.carbonCopy("asd","chn520039379@163.com");
+//        send.emailContentFile();
+//         SetWtableThreadPool.getInstance().addTask(send);
+//         System.out.println("888888888888888888888888888888888888888888888888888888888888888888888");
 
 
 
